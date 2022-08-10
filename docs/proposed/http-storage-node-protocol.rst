@@ -35,7 +35,7 @@ Glossary
      (the storage service is an example of such an object)
 
    NURL
-     a self-authenticating URL-like string almost exactly like a NURL but without being tied to Foolscap
+     a self-authenticating URL-like string almost exactly like a fURL but without being tied to Foolscap
 
    swissnum
      a short random string which is part of a fURL/NURL and which acts as a shared secret to authorize clients to use a storage service
